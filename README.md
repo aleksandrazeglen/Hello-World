@@ -27,12 +27,14 @@ Date Completed: xx-xx-xx
 > **1.2.1 Compatible Software**
 
 *Compatible softwares include:*
-[Insert compatible software]
+[Insert compatible software](https://hackertyper.com/) 
 
 
 ## 1.3 - Files Used
 
+The file I used was Hello-World.txt[^1]
 
+[^1]: If I had a footnote, it would probably go here!
 
 ## 1.4 - Additional Documentation
 
